@@ -1,4 +1,5 @@
 # Demo
+[![CircleCI](https://circleci.com/gh/MasashiYokota/ElixirMeetupHandOn202201/tree/main.svg?style=svg)](https://circleci.com/gh/MasashiYokota/ElixirMeetupHandOn202201/tree/main)
 
 To start your Phoenix server:
 
